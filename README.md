@@ -48,7 +48,7 @@ Using it with Twilio:
 ## Screenshots
 ![alt tag](https://user-images.githubusercontent.com/35954631/115241354-65e26900-a129-11eb-9b85-efa5a871693c.JPG)
 
-![alt tag](https://user-images.githubusercontent.com/35954631/115243546-b4910280-a12b-11eb-9ca2-377bf097ea08.JPG)
+![alt tag](https://user-images.githubusercontent.com/35954631/115243859-09347d80-a12c-11eb-9486-452ce812c95c.JPG)
 
 ![alt tag](https://user-images.githubusercontent.com/35954631/115241358-667aff80-a129-11eb-87c3-324896eba31f.JPG)
 
