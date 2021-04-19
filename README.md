@@ -43,7 +43,7 @@ Using it with Twilio:
  * Scene Builder & Pichon - used to draw the UI interface.
 
 ## Author
-* **Geanina Chiricuta**
+* **GeaninaC**
 
 ## Screenshots
 ![alt tag](https://user-images.githubusercontent.com/35954631/115241354-65e26900-a129-11eb-9b85-efa5a871693c.JPG)
