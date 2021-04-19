@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import com.jfoenix.controls.JFXButton?>
+<?import com.jfoenix.controls.JFXTextArea?>
+<?import com.jfoenix.controls.JFXTextField?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+
+
+<AnchorPane id="AnchorPane" prefHeight="208.0" prefWidth="315.0" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/15.0.1">
+   <children>
+      <AnchorPane id="AnchorPane" prefHeight="223.0" prefWidth="332.0" style="-fx-background-color: #3D4956;">
+         <children>
+            <JFXButton fx:id="sendCloseBtn" layoutX="275.0" layoutY="14.0" prefHeight="33.0" prefWidth="38.0" />
+            <Label layoutX="21.0" layoutY="48.0" text="To:" textFill="WHITE" />
+            <JFXButton fx:id="saveBtn" layoutX="275.0" layoutY="175.0" prefHeight="33.0" prefWidth="38.0" />
+            <JFXTextArea fx:id="bodyText" focusColor="WHITE" layoutX="21.0" layoutY="72.0" prefHeight="104.0" prefWidth="286.0" />
+            <JFXTextField fx:id="receiverNr" focusColor="WHITE" layoutX="44.0" layoutY="44.0" />
+         </children>
+      </AnchorPane>
+   </children>
+</AnchorPane>

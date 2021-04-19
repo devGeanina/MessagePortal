@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import com.jfoenix.controls.JFXButton?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane id="AnchorPane" prefHeight="108.0" prefWidth="247.0" xmlns="http://javafx.com/javafx/15.0.1" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <AnchorPane id="AnchorPane" fx:id="appVersionTxt" layoutY="-4.0" prefHeight="112.0" prefWidth="247.0" style="-fx-background-color: #3D4956;">
+         <children>
+            <JFXButton fx:id="noBtn" layoutX="144.0" layoutY="70.0" prefHeight="34.0" prefWidth="49.0" textFill="WHITE" />
+            <Label fx:id="confirmMsgTxt" layoutX="22.0" layoutY="25.0" text="Delete this SMS?" textFill="WHITE" />
+            <JFXButton fx:id="yesBtn" layoutX="194.0" layoutY="70.0" prefHeight="34.0" prefWidth="50.0" textFill="WHITE" />
+         </children>
+      </AnchorPane>
+   </children>
+</AnchorPane>

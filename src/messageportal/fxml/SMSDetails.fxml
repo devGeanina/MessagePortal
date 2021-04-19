@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import com.jfoenix.controls.JFXButton?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane id="AnchorPane" prefHeight="268.0" prefWidth="329.0" style="-fx-background-color: #3D4956;" xmlns="http://javafx.com/javafx/15.0.1" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <Label fx:id="smsBody" layoutX="15.0" layoutY="36.0" prefHeight="188.0" prefWidth="298.0" textFill="WHITE" />
+      <Label fx:id="receivedLabel" layoutX="116.0" layoutY="231.0" text="Received on:" textFill="WHITE">
+         <font>
+            <Font size="10.0" />
+         </font>
+      </Label>
+      <Label fx:id="fromLabel" layoutX="14.0" layoutY="19.0" text="From:" textFill="WHITE" />
+      <Label fx:id="fromText" layoutX="55.0" layoutY="19.0" prefHeight="18.0" prefWidth="193.0" textFill="WHITE" />
+      <JFXButton fx:id="closeBtn" layoutX="275.0" layoutY="14.0" prefHeight="33.0" prefWidth="38.0" />
+      <Label fx:id="receivedText" layoutX="184.0" layoutY="231.0" text="Label" textFill="WHITE">
+         <font>
+            <Font size="10.0" />
+         </font>
+      </Label>
+   </children>
+</AnchorPane>

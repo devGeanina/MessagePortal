@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import com.jfoenix.controls.JFXButton?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane id="AnchorPane" prefHeight="95.0" prefWidth="319.0" xmlns="http://javafx.com/javafx/15.0.1" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <AnchorPane id="AnchorPane" fx:id="appVersionTxt" prefHeight="183.0" prefWidth="319.0" style="-fx-background-color: #3D4956;">
+         <children>
+            <JFXButton fx:id="helpCloseBtn" layoutX="316.0" layoutY="14.0" prefHeight="33.0" prefWidth="38.0" />
+            <Label fx:id="versionLbl" layoutX="26.0" layoutY="141.0" text="App version:" textFill="WHITE" />
+            <Label fx:id="versionTxt" layoutX="217.0" layoutY="141.0" text="Label" textFill="WHITE" />
+            <Label fx:id="smsLeftLabel" layoutX="26.0" layoutY="45.0" text="SMS left until next invoice:" textFill="WHITE" />
+            <Label fx:id="smsLeftTxt" layoutX="217.0" layoutY="45.0" text="Label" textFill="WHITE" />
+            <Label fx:id="phoneNoTxt" layoutX="217.0" layoutY="82.0" prefHeight="18.0" prefWidth="166.0" text="+countryPrefix" textFill="WHITE" />
+            <Label fx:id="phoneNoFormat" layoutX="217.0" layoutY="108.0" prefHeight="18.0" prefWidth="166.0" text="and phone number." textFill="#fafafa" />
+         </children>
+      </AnchorPane>
+      <Label fx:id="phoneNoLabel" layoutX="26.0" layoutY="83.0" text="Phone no format:" textFill="WHITE" />
+   </children>
+</AnchorPane>

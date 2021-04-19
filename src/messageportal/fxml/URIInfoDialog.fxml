@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import com.jfoenix.controls.JFXButton?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane id="AnchorPane" prefHeight="165.0" prefWidth="371.0" xmlns="http://javafx.com/javafx/15.0.1" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <AnchorPane id="AnchorPane" fx:id="appVersionTxt" layoutY="-7.0" prefHeight="172.0" prefWidth="404.0" style="-fx-background-color: #3D4956;">
+         <children>
+            <JFXButton fx:id="uriCloseBtn" layoutX="321.0" layoutY="15.0" prefHeight="33.0" prefWidth="38.0" />
+            <Label fx:id="uriSendLbl" layoutX="20.0" layoutY="65.0" text="URI &quot;/send&quot; (optional: &quot;id&quot;):" textFill="WHITE" />
+            <Label fx:id="uriCreditLbl" layoutX="21.0" layoutY="93.0" text="URI &quot;/credit&quot;:" textFill="WHITE" />
+            <Label fx:id="uriAuthLbl" layoutX="21.0" layoutY="122.0" text="URI &quot;/authKey&quot;:" textFill="WHITE" />
+            <Label fx:id="uriSendTxt" layoutX="205.0" layoutY="65.0" text="Label" textFill="WHITE" />
+            <Label fx:id="uriCreditTxt" layoutX="205.0" layoutY="93.0" text="Label" textFill="WHITE" />
+            <Label fx:id="uriAuthTxt" layoutX="205.0" layoutY="122.0" text="No parameters needed." textFill="WHITE" />
+            <Label fx:id="gatewayLbl" layoutX="19.0" layoutY="32.0" style="-fx-font-weight: bold;" text="Gateway URI" textFill="WHITE" />
+         </children>
+      </AnchorPane>
+   </children>
+</AnchorPane>
