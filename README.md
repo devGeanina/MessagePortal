@@ -1,3 +1,5 @@
+
+
 ## MessagePortal for Desktop
 SMS Gateway application allowing users to send SMS messages using an Android device as the GSM modem. The desktop application is part of a multi-device SMS gateway service
 that can be used in conjucture with its twin application for Android. The twin applications allow the user to send the desired SMS through their interfaces
@@ -45,3 +47,5 @@ Using it with Twilio:
 ## Author
 * **GeaninaC**
 
+
+https://user-images.githubusercontent.com/35954631/115345706-d6d06200-a1b7-11eb-8629-d04b4512df5d.mp4
