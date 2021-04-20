@@ -45,6 +45,3 @@ Using it with Twilio:
 ## Author
 * **GeaninaC**
 
-
-https://user-images.githubusercontent.com/35954631/115345615-b902fd00-a1b7-11eb-95a8-4188d3a1905e.mp4
-
