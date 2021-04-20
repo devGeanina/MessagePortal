@@ -16,7 +16,7 @@ import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
 public class ConfirmController {
-    private static final Logger LOGGER = LogManager.getLogger(HelpController.class);
+    private static final Logger LOGGER = LogManager.getLogger(ConfirmController.class);
     private static final SMSService smsService = new SMSService();
     private boolean isConfirmed = false;
     private Stage confirmStage;
