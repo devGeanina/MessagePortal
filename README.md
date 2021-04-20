@@ -45,23 +45,6 @@ Using it with Twilio:
 ## Author
 * **GeaninaC**
 
-## Screenshots
-![alt tag](https://user-images.githubusercontent.com/35954631/115241354-65e26900-a129-11eb-9b85-efa5a871693c.JPG)
 
-![alt tag](https://user-images.githubusercontent.com/35954631/115243859-09347d80-a12c-11eb-9486-452ce812c95c.JPG)
+https://user-images.githubusercontent.com/35954631/115345615-b902fd00-a1b7-11eb-95a8-4188d3a1905e.mp4
 
-![alt tag](https://user-images.githubusercontent.com/35954631/115241358-667aff80-a129-11eb-87c3-324896eba31f.JPG)
-
-![alt tag](https://user-images.githubusercontent.com/35954631/115241360-67139600-a129-11eb-98e8-65347f418bdd.JPG)
-
-![alt tag](https://user-images.githubusercontent.com/35954631/115241361-67139600-a129-11eb-88b9-870351dd906f.JPG)
-
-![alt tag](https://user-images.githubusercontent.com/35954631/115241362-67ac2c80-a129-11eb-870d-e130fc059389.JPG)
-
-![alt tag](https://user-images.githubusercontent.com/35954631/115241365-67ac2c80-a129-11eb-8ebb-7d377fb6c5e9.JPG)
-
-![alt tag](https://user-images.githubusercontent.com/35954631/115241367-67ac2c80-a129-11eb-8cc8-b106bffae736.JPG)
-
-![alt tag](https://user-images.githubusercontent.com/35954631/115241369-6844c300-a129-11eb-8232-a2b8990cb6a3.JPG)
-
-![alt tag](https://user-images.githubusercontent.com/35954631/115241373-6844c300-a129-11eb-9d00-b020c7450cba.JPG)
