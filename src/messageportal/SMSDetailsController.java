@@ -22,7 +22,7 @@ import org.apache.logging.log4j.Logger;
 
 public class SMSDetailsController {
 
-    private static final Logger LOGGER = LogManager.getLogger(SMSListCell.class);
+    private static final Logger LOGGER = LogManager.getLogger(SMSDetailsController.class);
 
     @FXML
     private Label fromText, receivedText, smsBody;
